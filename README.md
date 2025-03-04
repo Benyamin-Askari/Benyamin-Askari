@@ -57,7 +57,6 @@
     </a>
 </p>
 
-### Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 

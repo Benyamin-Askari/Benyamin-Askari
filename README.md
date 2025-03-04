@@ -23,22 +23,58 @@
 1. Submitted to the "European Journal of Applied Physiology". Preprint at bioRxiv: Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. [DOI](https://doi.org/10.1101/2025.01.28.635321)
 2. Co-authored perspective review with Professor Jorming Goh from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP. Scheduled for publication in "Nature Metabolism".
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/benyamin-askari-443424318)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-green?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Benyamin-Askari)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate)
+### Connect with Me
+<p align="left">
+    <a href="https://www.linkedin.com/in/benyamin-askari-443424318" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" width="40" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.researchgate.net/profile/Benyamin-Askari" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="40" width="40" alt="ResearchGate"/>
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="40" width="40" alt="Google Scholar"/>
+    </a>
+</p>
 
 ### Languages and Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<p align="left">
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" width="40" height="40" alt="PyTorch"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" width="40" height="40" alt="TensorFlow"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikit-learn.svg" width="40" height="40" alt="Scikit-learn"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opencv.svg" width="40" height="40" alt="OpenCV"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/seaborn.svg" width="40" height="40" alt="Seaborn"/>
+    </a>
+    <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="40" height="40" alt="Pandas"/>
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" height="40" alt="Python"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" width="40" height="40" alt="C"/>
+    </a>
+    <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" width="40" height="40" alt="Azure"/>
+    </a>
+    <a href="https://aws.amazon.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonwebservices.svg" width="40" height="40" alt="AWS"/>
+    </a>
+    <a href="https://www.raspberrypi.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/raspberrypi.svg" width="40" height="40" alt="Raspberry Pi"/>
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arduino.svg" width="40" height="40" alt="Arduino"/>
+    </a>
+</p>

@@ -114,7 +114,7 @@
 
 
 
-| Project | Description | Links |
+
 |---------|-------------|-------|
 - Human Activity Recognition - MHealth | PyTorch [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048)
 - Human Activity Recognition - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
@@ -130,7 +130,7 @@
 | Project | Description | Links |
 |---------|-------------|-------|
 | Human Activity Recognition | MHealth with PyTorch | [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048) |
-| Wearable Activity Recognition | Advanced Clustering Techniques | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Clustering) |
+| Wearable Activity Recognition | Advanced Clustering Techniques | [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering) |
 | Obesity Prediction | Machine Learning Classification | [![Research](https://img.shields.io/badge/-Research-blue?style=flat-square&logo=researchgate)](https://www.mdpi.com/1424-8220/22/11/4240) |
 | Vehicle Counting | YOLOv11 and ByteTrack | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Computer-Vision) |
 | IoT Fall Detection | Arduino and ThingSpeak | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/IoT-Fall-Detection) |

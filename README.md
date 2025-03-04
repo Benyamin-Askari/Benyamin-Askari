@@ -32,6 +32,7 @@
 </table>
 
 <h3 align="left">Projects</h3>
+
 - Human Activity Recognition - MHealth | PyTorch [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048)
 - Human Activity Recognition - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
 - Obesity Prediction - Classification [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/11/4240)

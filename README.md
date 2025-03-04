@@ -6,7 +6,7 @@
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
 - 📧 inquiries **benyaminnaskari@gmail.com**
 
-### Education
+<h3 align="left">Education</h3>
 <table>
   <tr>
     <td><strong>M.S</strong></td>
@@ -32,7 +32,7 @@
 </table>
 
 
-## Projects
+<h3 align="left">Projects:</h3>
 - Human Activity Recognition - MHealth | PyTorch [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048)
 - Human Activity Recognition - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
 - Obesity Prediction - Classification [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -40,11 +40,11 @@
 - IoT Fall Detection - Arduino, ThingSpeak [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/IoT-Fall-Detection)
 - NLP - Sentiment Analysis [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Sentiment-Analysis)
 
-## Publications
+<h3 align="left">Publications:</h3>
 1. Submitted to the "European Journal of Applied Physiology". Preprint at bioRxiv: Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. [DOI](https://doi.org/10.1101/2025.01.28.635321)
 2. Co-authored perspective review with Professor Jorming Goh from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP. Scheduled for publication in "Nature Metabolism".
 
-### Connect with Me
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/benyamin-askari-443424318" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" width="40" alt="LinkedIn"/>

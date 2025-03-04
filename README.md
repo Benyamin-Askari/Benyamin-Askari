@@ -11,6 +11,34 @@
 - M.S | 2018 - 2020 | Exercise Physiology                                  | Kharazmi University   | GPA: 3.7/4
 - B.S  | 2015 - 2018 | Sport Biosciences                                    | Azad University CTB   | GPA: 3.7/4
 
+
+### Education
+
+<table>
+  <tr>
+    <td><strong>M.S</strong></td>
+    <td>2024 - 2025</td>
+    <td>Internet of Things with Data Science</td>
+    <td>University of Salford</td>
+    <td>GPA: 80.5/100</td>
+  </tr>
+  <tr>
+    <td><strong>M.S</strong></td>
+    <td>2018 - 2020</td>
+    <td>Exercise Physiology</td>
+    <td>Kharazmi University</td>
+    <td>GPA: 3.7/4</td>
+  </tr>
+  <tr>
+    <td><strong>B.S</strong></td>
+    <td>2015 - 2018</td>
+    <td>Sport Biosciences</td>
+    <td>Azad University CTB</td>
+    <td>GPA: 3.7/4</td>
+  </tr>
+</table>
+
+
 ## Projects
 #### [Human Activity Recognition - MHealth | PyTorch](https://www.mdpi.com/1424-8220/22/8/3048)
 

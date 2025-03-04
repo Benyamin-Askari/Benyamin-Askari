@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-![Waving Hand](URL_of_waving_hand_GIF) Hi, I'm Benyamin
+<h1 align="center">Hi 👋, I'm Benyamin</h1>
 <h3 align="center">Health & IoT Data Science. I Solve Problems in Health Data Science.</h3>
 
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
@@ -46,11 +46,18 @@
 2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a>* co-first authoring a perspective review with Professor <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a> from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in "Nature Metabolism".
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-  [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/benyamin-askari-443424318)
-  [![ResearchGate](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg)](https://www.researchgate.net/profile/Benyamin-Askari)
-  [![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)](https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate)
+<p align="left">
+  <a href="https://www.linkedin.com/in/benyamin-askari-443424318" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/academicons/fontawesome/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Benyamin-Askari" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/academicons/fontawesome/researchgate.svg" alt="ResearchGate" height="30" width="40" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/academicons/fontawesome/google-scholar.svg" alt="Google Scholar" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

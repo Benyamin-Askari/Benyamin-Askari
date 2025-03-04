@@ -42,8 +42,17 @@
 </ul>
 
 ## Publications
-1. Submitted to the "European Journal of Applied Physiology". Below is the preprint at bioRxiv Rajabi, H., Askari, B., & Clarke, <a href="https://www.ed.ac.uk/profile/david-clarke" target="_blank">D. C.</a> (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
-2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a>* co-first authoring a perspective review with Professor <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a> from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in "Nature Metabolism".
+1. Submitted to the "European Journal of Applied Physiology". Below is the preprint at bioRxiv Rajabi, H., Askari, B., & Clarke, <a href="https://www.sfu.ca/bpk/about/people/faculty/david-c clarke.html"_blank">D. C.</a> (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
+2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, Jorming Goh* co-first authoring a perspective review with Professor <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a> from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in "Nature Metabolism".
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

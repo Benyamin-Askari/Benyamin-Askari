@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/3o7qDE4h2B5noK4R6g/giphy.gif" alt="wave" height="40" width="40">, I'm Benyamin</h1>
+![Waving Hand](URL_of_waving_hand_GIF) Hi, I'm Benyamin
 <h3 align="center">Health & IoT Data Science. I Solve Problems in Health Data Science.</h3>
 
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**

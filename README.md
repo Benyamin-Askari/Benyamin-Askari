@@ -41,8 +41,15 @@
 - NLP - Sentiment Analysis [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Sentiment-Analysis)
 
 <h3 align="left">Publications:</h3>
-1. Submitted to the "European Journal of Applied Physiology". Preprint at bioRxiv: Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. [DOI](https://doi.org/10.1101/2025.01.28.635321)
-2. Co-authored perspective review with Professor Jorming Goh from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP. Scheduled for publication in "Nature Metabolism".
+
+1. Submitted to the "European Journal of Applied Physiology". Below is the preprint at bioRxiv Rajabi, H., Askari, B., & <a href="[[https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming](https://www.sfu.ca/bpk/about/people/faculty/david-c clarke.html)](https://www.sfu.ca/bpk/about/people/faculty/david-c clarke.html"_blank)" target="_blank">Clarke,D. C.</a> (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
+2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, Jorming Goh* co-first authoring a perspective review with Professor <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a> from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in "Nature Metabolism".
+
+
+
+
+
+
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">

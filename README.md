@@ -135,3 +135,67 @@
 | Vehicle Counting | YOLOv11 and ByteTrack | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Computer-Vision) |
 | IoT Fall Detection | Arduino and ThingSpeak | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/IoT-Fall-Detection) |
 | NLP Sentiment Analysis | Natural Language Processing | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Sentiment-Analysis) |
+
+
+
+
+
+
+
+
+
+
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Benyamin
+## Health & IoT Data Science. I Solve Problems in Health Data Science.
+
+- 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
+- 📧 inquiries **benyaminnaskari@gmail.com**
+
+### Education
+| Degree | Year | Field | University | GPA |
+|--------|------|-------|------------|-----|
+| M.S | 2024 - 2025 | Internet of Things with Data Science | University of Salford | 80.5/100 |
+| M.S | 2018 - 2020 | Exercise Physiology | Kharazmi University | 3.7/4 |
+| B.S | 2015 - 2018 | Sport Biosciences | Azad University CTB | 3.7/4 |
+
+### 🚀 Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| Human Activity Recognition | MHealth with PyTorch | [![Research](https://img.shields.io/badge/-Research-blue?style=flat-square&logo=researchgate)](https://www.mdpi.com/1424-8220/22/8/3048) |
+| Wearable Activity Recognition | Advanced Clustering Techniques | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Clustering) |
+| Obesity Prediction | Machine Learning Classification | [![Research](https://img.shields.io/badge/-Research-blue?style=flat-square&logo=researchgate)](https://www.mdpi.com/1424-8220/22/11/4240) |
+| Vehicle Counting | YOLOv11 and ByteTrack | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Computer-Vision) |
+| IoT Fall Detection | Arduino and ThingSpeak | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/IoT-Fall-Detection) |
+| NLP Sentiment Analysis | Natural Language Processing | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Sentiment-Analysis) |
+
+### Publications
+1. Submitted to the "European Journal of Applied Physiology". Preprint at bioRxiv: Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. [DOI](https://doi.org/10.1101/2025.01.28.635321)
+2. Co-authored perspective review with Professor Jorming Goh from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP. Scheduled for publication in "Nature Metabolism".
+
+### Connect with Me
+<p align="left">
+    <a href="https://www.linkedin.com/in/benyamin-askari-443424318" target="_blank">
+        <img src="https://skillicons.dev/icons/linkedin" width="30" height="30" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.researchgate.net/profile/Benyamin-Askari" target="_blank">
+        <img src="https://skillicons.dev/icons/researchgate" width="30" height="30" alt="ResearchGate"/>
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+        <img src="https://skillicons.dev/icons/googlescholar" width="30" height="30" alt="Google Scholar"/>
+    </a>
+</p>
+
+### Languages and Tools
+<p align="left">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25" alt="Arduino"/>
+</p>

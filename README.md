@@ -3,13 +3,10 @@
 <h1 align="center">Hi 👋, I'm Benyamin</h1>
 <h3 align="center">Health & IoT Data Science. I Solve Problems in Health Data Science.</h3>
 
-
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
-
-- 📫 inquiries **benyaminnaskari@gmail.com**
+- 📧 inquiries **benyaminnaskari@gmail.com**
 
 ### Education
-
 <table>
   <tr>
     <td><strong>M.S</strong></td>
@@ -34,21 +31,20 @@
   </tr>
 </table>
 
-
 ## Projects
-
-- <a href="https://www.mdpi.com/1424-8220/22/8/3048" target="_blank"><i class="fas fa-external-link-alt"></i> Human Activity Recognition - MHealth | PyTorch</a>
-- <a href="https://github.com/Benyamin-Askari/Clustering" target="_blank"><i class="fas fa-external-link-alt"></i> Human Activity Recognition - Wearable</a>
-- <a href="https://www.mdpi.com/1424-8220/22/11/4240" target="_blank"><i class="fas fa-external-link-alt"></i> Obesity Prediction - Classification</a>
-- <a href="https://github.com/Benyamin-Askari/Computer-Vision" target="_blank"><i class="fas fa-external-link-alt"></i> Vehicle Counting - YOLOv11 and ByteTrack</a>
-- <a href="https://github.com/Benyamin-Askari/IoT-Fall-Detection" target="_blank"><i class="fas fa-external-link-alt"></i> IoT Fall Detection - Arduino, ThingSpeak</a>
-- <a href="https://github.com/Benyamin-Askari/Sentiment-Analysis" target="_blank"><i class="fas fa-external-link-alt"></i> NLP - Sentiment-Analysis</a>
-
+<ul>
+  <li>Human Activity Recognition - MHealth | PyTorch <a href="https://www.mdpi.com/1424-8220/22/8/3048" target="_blank">🔗</a></li>
+  <li>Human Activity Recognition - Wearable <a href="https://github.com/Benyamin-Askari/Clustering" target="_blank">🔗</a></li>
+  <li>Obesity Prediction - Classification <a href="https://www.mdpi.com/1424-8220/22/11/4240" target="_blank">🔗</a></li>
+  <li>Vehicle Counting - YOLOv11 and ByteTrack <a href="https://github.com/Benyamin-Askari/Computer-Vision" target="_blank">🔗</a></li>
+  <li>IoT Fall Detection - Arduino, ThingSpeak <a href="https://github.com/Benyamin-Askari/IoT-Fall-Detection" target="_blank">🔗</a></li>
+  <li>NLP - Sentiment Analysis <a href="https://github.com/Benyamin-Askari/Sentiment-Analysis" target="_blank">🔗</a></li>
+</ul>
 
 ## Publications
+1. Submitted to the "European Journal of Applied Physiology". Below is the preprint at bioRxiv Rajabi, H., Askari, B., & Clarke, <a href="https://www.ed.ac.uk/profile/david-clarke" target="_blank">D. C.</a> (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
+2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a>* co-first authoring a perspective review with Professor <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a> from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in "Nature Metabolism".
 
-1. Submitted to the “European Journal of Applied Physiology”. Below is the preprint at bioRxiv Rajabi, H., Askari, B., & Clarke, D. C. (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
-2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a>* co-first authoring a perspective review with Professor <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a> from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in “Nature Metabolism”.
 
 
 <h3 align="left">Connect with me:</h3>

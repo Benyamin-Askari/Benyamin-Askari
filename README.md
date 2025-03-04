@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<h1 align="center">Hi 👋, I'm Benyamin</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi 👋, I'm Benyamin</h1>
 <h3 align="center">Health & IoT Data Science. I Solve Problems in Health Data Science.</h3>
 
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**

@@ -1,4 +1,4 @@
-# Hi 👋, I'm Benyamin
+<h3 align="center"># Hi 👋, I'm Benyamin:</h3>
 ## Health & IoT Data Science. I Solve Problems in Health Data Science.
 
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
@@ -37,44 +37,45 @@
 </p>
 
 ### Languages and Tools
-<p align="left">
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" width="40" height="40" alt="PyTorch"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" width="40" height="40" alt="TensorFlow"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikit-learn.svg" width="40" height="40" alt="Scikit-learn"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opencv.svg" width="40" height="40" alt="OpenCV"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/seaborn.svg" width="40" height="40" alt="Seaborn"/>
-    </a>
-    <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg" width="40" height="40" alt="Matplotlib"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="40" height="40" alt="Pandas"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" height="40" alt="Python"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" width="40" height="40" alt="C"/>
-    </a>
-    <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" width="40" height="40" alt="Azure"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonwebservices.svg" width="40" height="40" alt="AWS"/>
-    </a>
-    <a href="https://www.raspberrypi.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/raspberrypi.svg" width="40" height="40" alt="Raspberry Pi"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arduino.svg" width="40" height="40" alt="Arduino"/>
-    </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
 </p>

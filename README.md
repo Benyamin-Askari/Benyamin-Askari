@@ -2,7 +2,8 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm Benyamin</h1>
 <h3 align="center">I Solve Problems in Health & IoT Data Science</h3>
-</p>
+
+
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
 - 📧 Contact **benyaminnaskari@gmail.com**
 

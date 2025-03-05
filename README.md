@@ -57,7 +57,7 @@
     <td>Classification</td>
     <td>Machine Learning</td>
     <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
-    <td><a href="https://www.mdpi.com/1424-8220/22/11/4240">
+    <td><a href="">
       <img src="https://img.shields.io/badge/Link-Research-blue" alt="Link">
     </a></td>
   </tr>

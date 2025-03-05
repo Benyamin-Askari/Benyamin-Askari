@@ -149,6 +149,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="40" width="40" alt="ResearchGate"/>
     </a>
     <a href="https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
-        <img src="[file:///C:/Users/sup161/Downloads/icons8-google-scholar.svg](https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/googlescholar.svg)" height="40" width="40" alt="Google Scholar"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="40" width="40" alt="Google Scholar"/>
     </a>
 </p>

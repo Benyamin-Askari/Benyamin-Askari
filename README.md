@@ -16,14 +16,14 @@
     <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/></td>
     <td><a href="https://github.com/Benyamin-Askari/Clustering">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
-    </a></td>
+    </td>
   </tr>
 
   <tr>
     <td><strong>Human Activity Recognition</strong></td>
     <td>PLHI-MC10</td>
     <td>Preprocessing</td>
-    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/>></td>
+    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
     <td>GPA: 3.7/4</td>
   </tr>
 

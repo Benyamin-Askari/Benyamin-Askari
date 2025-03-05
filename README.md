@@ -18,7 +18,6 @@
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </td>
   </tr>
-
   <tr>
     <td><strong>Human Activity Recognition</strong></td>
     <td>PLHI-MC10</td>
@@ -35,14 +34,101 @@
     <td>Sport Biosciences</td>
     <td>Azad University CTB</td>
     <td>GPA: 3.7/4</td>
+
+  </tr>
+  <tr>
+    <td><strong>B.S</strong></td>
+    <td>2015 - 2018</td>
+    <td>Sport Biosciences</td>
+    <td>Azad University CTB</td>
+    <td>GPA: 3.7/4</td>
   </tr>
 </table>
 
 
-<h3 align="left"></h3>
 
--  -  |  
--  - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
+
+
+
+<h3 align="left">🚀Projects</h3>
+<table>
+
+  <tr>
+    <td><strong>Human Activity Recognition</strong></td>
+    <td>MHealth</td>
+    <td>CNN-LSTM</td>
+    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Clustering">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+  <tr>
+    <td><strong>Human Activity Recognition</strong></td>
+    <td>PLHI-MC10</td>
+    <td>Preprocessing</td>
+    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Clustering">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+
+  <tr>
+    <td><strong>B.S</strong></td>
+    <td>2015 - 2018</td>
+    <td>Sport Biosciences</td>
+    <td>Azad University CTB</td>
+    <td>GPA: 3.7/4</td>
+  </tr>
+
+  <!-- New Projects -->
+  <tr>
+    <td><strong>Obesity Prediction</strong></td>
+    <td>Classification</td>
+    <td>Machine Learning</td>
+    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
+    <td><a href="https://www.mdpi.com/1424-8220/22/11/4240">
+      <img src="https://img.shields.io/badge/Link-Research-blue" alt="Link">
+    </a></td>
+  </tr>
+
+  <tr>
+    <td><strong>Vehicle Counting</strong></td>
+    <td>YOLOv11 & ByteTrack</td>
+    <td>Computer Vision</td>
+    <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25" alt="OpenCV"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Computer-Vision">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+
+  <tr>
+    <td><strong>IoT Fall Detection</strong></td>
+    <td>Arduino & ThingSpeak</td>
+    <td>Embedded Systems</td>
+    <td><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25" alt="Arduino"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/IoT-Fall-Detection">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+
+  <tr>
+    <td><strong>NLP</strong></td>
+    <td>Sentiment Analysis</td>
+    <td>Natural Language Processing</td>
+    <td><img src="https://img.shields.io/badge/NLP-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" alt="NLP"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Sentiment-Analysis">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+
+</table>
+
+
+
+
+
+
+
 - Obesity Prediction - Classification [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/11/4240)
 - Vehicle Counting - YOLOv11 and ByteTrack [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Computer-Vision)
 - IoT Fall Detection - Arduino, ThingSpeak [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/IoT-Fall-Detection)

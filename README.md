@@ -6,35 +6,21 @@
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
 - 📧 inquiries **benyaminnaskari@gmail.com**
 
-<h3 align="left">🚀Projects</h3>
+<h3 align="left">Education</h3>
 <table>
-
   <tr>
-    <td><strong>Human Activity Recognition</strong></td>
-    <td>MHealth</td>
-    <td>CNN-LSTM</td>
-    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/></td>
-    <td><a href="https://github.com/Benyamin-Askari/Clustering">
-      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
-    </td>
+    <td><strong>M.S</strong></td>
+    <td>2024 - 2025</td>
+    <td>Internet of Things with Data Science</td>
+    <td>University of Salford</td>
+    <td>GPA: 80.5/100</td>
   </tr>
   <tr>
-    <td><strong>Human Activity Recognition</strong></td>
-    <td>PLHI-MC10</td>
-    <td>Preprocessing</td>
-    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
-    <td><a href="https://github.com/Benyamin-Askari/Clustering">
-      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>B.S</strong></td>
-    <td>2015 - 2018</td>
-    <td>Sport Biosciences</td>
-    <td>Azad University CTB</td>
+    <td><strong>M.S</strong></td>
+    <td>2018 - 2020</td>
+    <td>Exercise Physiology</td>
+    <td>Kharazmi University</td>
     <td>GPA: 3.7/4</td>
-
   </tr>
   <tr>
     <td><strong>B.S</strong></td>
@@ -44,11 +30,6 @@
     <td>GPA: 3.7/4</td>
   </tr>
 </table>
-
-
-
-
-
 
 <h3 align="left">🚀Projects</h3>
 <table>
@@ -109,44 +90,7 @@
 </table>
 
 
-
-
-
-
-
-- Obesity Prediction - Classification [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/11/4240)
-- Vehicle Counting - YOLOv11 and ByteTrack [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Computer-Vision)
-- IoT Fall Detection - Arduino, ThingSpeak [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/IoT-Fall-Detection)
-- NLP - Sentiment Analysis [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Sentiment-Analysis)
-
-<h3 align="left">Education</h3>
-<table>
-  <tr>
-    <td><strong>M.S</strong></td>
-    <td>2024 - 2025</td>
-    <td>Internet of Things with Data Science</td>
-    <td>University of Salford</td>
-    <td>GPA: 80.5/100</td>
-  </tr>
-  <tr>
-    <td><strong>M.S</strong></td>
-    <td>2018 - 2020</td>
-    <td>Exercise Physiology</td>
-    <td>Kharazmi University</td>
-    <td>GPA: 3.7/4</td>
-  </tr>
-  <tr>
-    <td><strong>B.S</strong></td>
-    <td>2015 - 2018</td>
-    <td>Sport Biosciences</td>
-    <td>Azad University CTB</td>
-    <td>GPA: 3.7/4</td>
-  </tr>
-</table>
-
-
 <h3 align="left">Publications:</h3>
-
 1. Submitted to the "European Journal of Applied Physiology". Below is the preprint at bioRxiv <a href="https://scholar.google.com/citations?hl=en&user=GVRRgKYAAAAJ">Rajabi, H.</a>, Askari, B., <a href="https://www.sfu.ca/bpk/about/people/faculty/david-c-clarke.html">& Clarke, D.C</a> (2025). Endurance training restores ageing-impaired lysosomal biogenesis factors in rest and response to acute exercise in rat skeletal muscle. https://doi.org/10.1101/2025.01.28.635321
 
 2. Benyamin Askari, Zi Xiang Lim, Janjira Soh, Brian Keith Kennedy, Jorming Goh* co-first authoring a perspective review with Professor <a href="https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/" target="_blank">Jorming Goh</a> from the National University of Singapore, exploring DAMPs, aging, and exercise, utilizing NLP as well. The paper is scheduled for publication in "Nature Metabolism".

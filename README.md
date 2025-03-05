@@ -19,7 +19,7 @@
     <td><strong>M.S</strong></td>
     <td>MHealth</td>
     <td>PyTorch</td>
-    <td> [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048) </td>
+    <td> ![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048) </td>
     <td>GPA: 3.7/4</td>
   </tr>
   <tr>

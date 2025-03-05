@@ -34,6 +34,24 @@
 <h3 align="left">🚀Projects</h3>
 <table>
   <tr>
+    <td><strong>Human Activity Recognition</strong></td>
+    <td>MHealth</td>
+    <td>CNN-LSTM</td>
+    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Clustering">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+  <tr>
+    <td><strong>Human Activity Recognition</strong></td>
+    <td>PLHI-MC10</td>
+    <td>Preprocessing</td>
+    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Clustering">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+  <tr>
     <td><strong>Obesity Prediction</strong></td>
     <td>Classification</td>
     <td>Machine Learning</td>
@@ -125,12 +143,12 @@
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/benyamin-askari-443424318" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" width="40" alt="LinkedIn"/>
     </a>
     <a href="https://www.researchgate.net/profile/Benyamin-Askari" target="_blank">
-        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" height="25" alt="ResearchGate"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="40" width="40" alt="ResearchGate"/>
     </a>
     <a href="https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="25" alt="Google Scholar"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="40" width="40" alt="Google Scholar"/>
     </a>
 </p>

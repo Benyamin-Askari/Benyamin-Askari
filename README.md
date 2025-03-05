@@ -24,7 +24,9 @@
     <td>PLHI-MC10</td>
     <td>Preprocessing</td>
     <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
-    <td>GPA: 3.7/4</td>
+    <td><a href="https://github.com/Benyamin-Askari/Clustering">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </td>
   </tr>
 
   <tr>

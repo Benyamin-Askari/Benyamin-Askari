@@ -52,7 +52,6 @@
 
 <h3 align="left">🚀Projects</h3>
 <table>
-
   <tr>
     <td><strong>Human Activity Recognition</strong></td>
     <td>MHealth</td>
@@ -71,7 +70,6 @@
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>
-
   <tr>
     <td><strong>B.S</strong></td>
     <td>2015 - 2018</td>
@@ -79,8 +77,6 @@
     <td>Azad University CTB</td>
     <td>GPA: 3.7/4</td>
   </tr>
-
-  <!-- New Projects -->
   <tr>
     <td><strong>Obesity Prediction</strong></td>
     <td>Classification</td>
@@ -90,7 +86,6 @@
       <img src="https://img.shields.io/badge/Link-Research-blue" alt="Link">
     </a></td>
   </tr>
-
   <tr>
     <td><strong>Vehicle Counting</strong></td>
     <td>YOLOv11 & ByteTrack</td>
@@ -100,7 +95,6 @@
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>
-
   <tr>
     <td><strong>IoT Fall Detection</strong></td>
     <td>Arduino & ThingSpeak</td>
@@ -110,7 +104,6 @@
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>
-
   <tr>
     <td><strong>NLP</strong></td>
     <td>Sentiment Analysis</td>
@@ -120,7 +113,6 @@
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>
-
 </table>
 
 

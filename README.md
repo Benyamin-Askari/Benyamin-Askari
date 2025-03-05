@@ -10,14 +10,14 @@
 <table>
   <tr>
     <td><strong>Human Activity Recognition</strong></td>
-    <td>2024 - 2025</td>
+    <td>MHealth</td>
     <td>Internet of Things with Data Science</td>
-    <td>University of Salford</td>
+    <td>CNN-LSTM</td>
     <td>GPA: 80.5/100</td>
   </tr>
   <tr>
     <td><strong>M.S</strong></td>
-    <td>MHealth</td>
+    <td></td>
     <td>PyTorch</td>
     <td><a href="https://github.com/Benyamin-Askari/Clustering">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
@@ -198,4 +198,19 @@
 | NLP Sentiment Analysis | Natural Language Processing | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Sentiment-Analysis) |
 
 
+</p>
+
+
+
+Languages and Tools
+<p align="left">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25" alt="Arduino"/>
 </p>

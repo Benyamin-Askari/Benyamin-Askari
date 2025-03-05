@@ -4,7 +4,7 @@
 <h3 align="center">Health & IoT Data Science. I Solve Problems in Health Data Science.</h3>
 
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
-- 📧 inquiries **benyaminnaskari@gmail.com**
+- 📧 Contact **benyaminnaskari@gmail.com**
 
 <h3 align="left">Education</h3>
 <table>

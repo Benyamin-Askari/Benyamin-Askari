@@ -11,9 +11,11 @@
   <tr>
     <td><strong>Human Activity Recognition</strong></td>
     <td>MHealth</td>
-    <td>Internet of Things with Data Science</td>
     <td>CNN-LSTM</td>
-    <td>GPA: 80.5/100</td>
+    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Clustering">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
   </tr>
   <tr>
     <td><strong>M.S</strong></td>

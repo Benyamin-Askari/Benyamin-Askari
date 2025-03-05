@@ -8,6 +8,7 @@
 
 <h3 align="left">🚀Projects</h3>
 <table>
+
   <tr>
     <td><strong>Human Activity Recognition</strong></td>
     <td>MHealth</td>
@@ -17,15 +18,15 @@
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>
+
   <tr>
-    <td><strong>M.S</strong></td>
-    <td></td>
-    <td>PyTorch</td>
-    <td><a href="https://github.com/Benyamin-Askari/Clustering">
-      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
-    </a></td>
+    <td><strong>Human Activity Recognition</strong></td>
+    <td>PLHI-MC10</td>
+    <td>Preprocessing</td>
+    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/>></td>
     <td>GPA: 3.7/4</td>
   </tr>
+
   <tr>
     <td><strong>B.S</strong></td>
     <td>2015 - 2018</td>
@@ -39,7 +40,7 @@
 <h3 align="left"></h3>
 
 -  -  |  
-- Human Activity Recognition - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
+-  - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
 - Obesity Prediction - Classification [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/11/4240)
 - Vehicle Counting - YOLOv11 and ByteTrack [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Computer-Vision)
 - IoT Fall Detection - Arduino, ThingSpeak [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/IoT-Fall-Detection)

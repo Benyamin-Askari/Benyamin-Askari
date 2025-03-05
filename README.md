@@ -82,12 +82,12 @@
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/benyamin-askari-443424318" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
     </a>
     <a href="https://www.researchgate.net/profile/Benyamin-Askari" target="_blank">
-        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" height="30" alt="ResearchGate"/>
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" height="25" alt="ResearchGate"/>
     </a>
     <a href="https://scholar.google.com/citations?hl=en&user=NJb01oYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="30" alt="Google Scholar"/>
+        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="25" alt="Google Scholar"/>
     </a>
 </p>

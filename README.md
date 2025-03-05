@@ -186,8 +186,7 @@
 | B.S | 2015 - 2018 | Sport Biosciences | Azad University CTB | 3.7/4 |
 
 ### 🚀 Projects
-
-
+|--------|------|-------|------------|-----|
 | Human Activity Recognition | MHealth with PyTorch | [![Research](https://img.shields.io/badge/-Research-blue?style=flat-square&logo=researchgate)](https://www.mdpi.com/1424-8220/22/8/3048) |
 | Wearable Activity Recognition | Advanced Clustering Techniques | [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=github)](https://github.com/Benyamin-Askari/Clustering) |
 | Obesity Prediction | Machine Learning Classification | [![Research](https://img.shields.io/badge/-Research-blue?style=flat-square&logo=researchgate)](https://www.mdpi.com/1424-8220/22/11/4240) |

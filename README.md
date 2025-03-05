@@ -71,13 +71,6 @@
     </a></td>
   </tr>
   <tr>
-    <td><strong>B.S</strong></td>
-    <td>2015 - 2018</td>
-    <td>Sport Biosciences</td>
-    <td>Azad University CTB</td>
-    <td>GPA: 3.7/4</td>
-  </tr>
-  <tr>
     <td><strong>Obesity Prediction</strong></td>
     <td>Classification</td>
     <td>Machine Learning</td>

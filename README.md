@@ -19,7 +19,7 @@
     <td><strong>M.S</strong></td>
     <td>MHealth</td>
     <td>PyTorch</td>
--    <td> -[![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering) </td>
+    <td> -[![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering) </td>
     <td>GPA: 3.7/4</td>
   </tr>
   <tr>

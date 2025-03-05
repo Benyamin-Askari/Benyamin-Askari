@@ -6,6 +6,40 @@
 - 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
 - 📧 inquiries **benyaminnaskari@gmail.com**
 
+<h3 align="left">🚀Projects</h3>
+<table>
+  <tr>
+    <td><strong>Human Activity Recognition</strong></td>
+    <td>2024 - 2025</td>
+    <td>Internet of Things with Data Science</td>
+    <td>University of Salford</td>
+    <td>GPA: 80.5/100</td>
+  </tr>
+  <tr>
+    <td><strong>M.S</strong></td>
+    <td>MHealth</td>
+    <td>PyTorch</td>
+    <td>[![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048)</td>
+    <td>GPA: 3.7/4</td>
+  </tr>
+  <tr>
+    <td><strong>B.S</strong></td>
+    <td>2015 - 2018</td>
+    <td>Sport Biosciences</td>
+    <td>Azad University CTB</td>
+    <td>GPA: 3.7/4</td>
+  </tr>
+</table>
+
+<h3 align="left"></h3>
+
+-  -  |  
+- Human Activity Recognition - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
+- Obesity Prediction - Classification [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/11/4240)
+- Vehicle Counting - YOLOv11 and ByteTrack [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Computer-Vision)
+- IoT Fall Detection - Arduino, ThingSpeak [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/IoT-Fall-Detection)
+- NLP - Sentiment Analysis [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Sentiment-Analysis)
+
 <h3 align="left">Education</h3>
 <table>
   <tr>
@@ -31,14 +65,6 @@
   </tr>
 </table>
 
-<h3 align="left">🚀Projects</h3>
-
-- Human Activity Recognition - MHealth | PyTorch [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/8/3048)
-- Human Activity Recognition - Wearable [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Clustering)
-- Obesity Prediction - Classification [![Link](https://img.shields.io/badge/Link-Research-blue)](https://www.mdpi.com/1424-8220/22/11/4240)
-- Vehicle Counting - YOLOv11 and ByteTrack [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Computer-Vision)
-- IoT Fall Detection - Arduino, ThingSpeak [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/IoT-Fall-Detection)
-- NLP - Sentiment Analysis [![Link](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Benyamin-Askari/Sentiment-Analysis)
 
 <h3 align="left">Publications:</h3>
 

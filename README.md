@@ -44,9 +44,9 @@
     </a></td>
   </tr>
     <tr>
-    <td><strong>Big Data-Recommender System</strong></td>
+    <td><strong>Big Data</strong></td>
     <td>Steam 200K</td>
-    <td>sALS-Databricks</td>
+    <td>Recommender System-ALS</td>
     <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" alt="PyTorch"/></td>
     <td><a href="https://github.com/Benyamin-Askari/Big-Data---Recommender-Systems">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
@@ -148,6 +148,9 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
+  </a>
 
 
 <h3 align="left">Connect with Me</h3>

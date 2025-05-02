@@ -103,9 +103,9 @@
     </a></td>
   </tr>
   <tr>
-    <td><strong>NLP</strong></td>
-    <td>Sentiment Analysis</td>
-    <td>Natural Language Processing</td>
+    <td><strong>Sentiment Analysis</strong></td>
+    <td>FlipCard</td>
+    <td>Logistic Regression & Support Vector Machine</td>
     <td><img src="https://img.shields.io/badge/NLP-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" alt="NLP"/></td>
     <td><a href="https://github.com/Benyamin-Askari/Sentiment-Analysis">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">

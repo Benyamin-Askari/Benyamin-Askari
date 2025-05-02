@@ -57,7 +57,7 @@
     <td>Clinical Trial</td>
     <td>SQL</td>
     <td><img src="https://img.shields.io/badge/SparkSQL-E35A1C?style=for-the-badge&logo=apache-spark&logoColor=white" height="25" alt="SparkSQL"/><img src="https://img.shields.io/badge/Databricks-EF3E2B?style=flatsquare&logo=databricks&logoColor=white" height="25" alt="Databricks"/></td>
-    <td><a href="https://github.com/Benyamin-Askari/Big-Data---Recommender-Systems">
+    <td><a href="https://github.com/Benyamin-Askari/Big-Data-SQL">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>

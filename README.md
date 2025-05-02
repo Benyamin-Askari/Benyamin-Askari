@@ -70,14 +70,21 @@
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>
-  <tr>
-    <td><strong>Obesity Prediction</strong></td>
-    <td>Classification</td>
-    <td>Machine Learning</td>
-    <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
-    <td><a href="">
+   <tr>
+  <td><strong>Classification</strong></td>
+  <td>
+    <a href="https://www.sciencedirect.com/science/article/pii/S221065022030190X">
+      Obesity Prediction
+    </a>
+  </td>
+  <td>Random Forest & XGBoost</td>
+  <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
+  <td>
+    <a href="https://www.sciencedirect.com/science/article/pii/S221065022030190X">
       <img src="https://img.shields.io/badge/Link-Research-blue" alt="Link">
-    </a></td>
+    </a>
+  </td>
+</tr>
   </tr>
   <tr>
     <td><strong>Vehicle Counting</strong></td>

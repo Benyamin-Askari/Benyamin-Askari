@@ -85,8 +85,8 @@
   
   
   <tr>
-    <td><strong>Vehicle Counting-Computer Vision</strong></td>
-    <td>Traffic Video</td>
+    <td><strong>Computer Vision</strong></td>
+    <td>Vehicle Counting</td>
     <td>YOLOv11 & ByteTrack</td>
     <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25" alt="OpenCV"/></td>
     <td><a href="https://github.com/Benyamin-Askari/Computer-Vision">

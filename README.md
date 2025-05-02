@@ -154,12 +154,14 @@
   <a href="https://spark.apache.org/sql/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="sparksql" width="40" height="40"/>
   </a>
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/>
-  </a>
-   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+    <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
     <img src="https://brandfetch.com/mlflow.org/logo.svg" alt="mlflow" width="40" height="40"/>
   </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
+    ![mlflow-stack-220x234](https://github.com/user-attachments/assets/b5ddf877-ac28-4ce6-bba9-f087d2c5650b)
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/>
+  </a>
+ 
 
 
 <h3 align="left">Connect with Me</h3>

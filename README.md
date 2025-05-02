@@ -153,10 +153,6 @@
   </a>
   <a href="https://spark.apache.org/sql/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="sparksql" width="40" height="40"/>
-  </a>
-    <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/mlflow-logo-2x.png" alt="mlflow" width="40" height="40"/>
-  </a>
   <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/>
   </a>

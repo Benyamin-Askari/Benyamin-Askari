@@ -47,7 +47,7 @@
     <td><strong>Big Data</strong></td>
     <td>Steam 200K</td>
     <td>Recommender System-ALS</td>
-    <td><img src="https://img.shields.io/badge/MLflow-232323?style=flat-square&logo=mlflow&logoColor=white" height="25" alt="MLflow"/><img src="https://img.shields.io/badge/Databricks-EF3E2B?style=flat-square&logo=databricks&logoColor=white" height="25" alt="Databricks"/></td>
+    <td><img src="https://img.shields.io/badge/MLflow-232323?style=flat-square&logo=mlflow&logoColor=white" height="25" alt="MLflow"/><img src="https://img.shields.io/badge/Databricks-EF3E2B?style=flat-square&logo=databricks&logoColor=white" height="25" alt="Databricks"/><img src="https://img.shields.io/badge/PySpark-FF8C00?style=for-the-badge&logo=apache-spark&logoColor=white" height="25" alt="PySpark"/></td>
     <td><a href="https://github.com/Benyamin-Askari/Big-Data---Recommender-Systems">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>

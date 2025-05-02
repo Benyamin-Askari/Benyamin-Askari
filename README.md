@@ -4,7 +4,7 @@
 <h3 align="center">I Solve Problems in Health using IoT and Data Science</h3>
 
 
-- 💬 Projects in **Wearables, Computer Vision, IoT, Sports Analytics**
+- 💬 Projects in **Wearables, Computer Vision, Internet of Things**
 - 📧 Contact **benyaminnaskari@gmail.com**
 
 <h3 align="left">Education</h3>
@@ -48,6 +48,15 @@
     <td>Steam 200K</td>
     <td>Recommender System-ALS</td>
     <td><img src="https://img.shields.io/badge/MLflow-232323?style=flat-square&logo=mlflow&logoColor=white" height="25" alt="MLflow"/><img src="https://img.shields.io/badge/Databricks-EF3E2B?style=flatsquare&logo=databricks&logoColor=white" height="25" alt="Databricks"/><img src="https://img.shields.io/badge/PySpark-FF8C00?style=for-the-badge&logo=apache-spark&logoColor=white" height="25" alt="PySpark"/></td>
+    <td><a href="https://github.com/Benyamin-Askari/Big-Data---Recommender-Systems">
+      <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
+    </a></td>
+  </tr>
+  <tr>
+    <td><strong>Big Data</strong></td>
+    <td>Clinical Trial</td>
+    <td>SQL</td>
+    <td><img src="https://img.shields.io/badge/SparkSQL-E35A1C?style=for-the-badge&logo=apache-spark&logoColor=white" height="25" alt="SparkSQL"/><img src="https://img.shields.io/badge/Databricks-EF3E2B?style=flatsquare&logo=databricks&logoColor=white" height="25" alt="Databricks"/></td>
     <td><a href="https://github.com/Benyamin-Askari/Big-Data---Recommender-Systems">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>

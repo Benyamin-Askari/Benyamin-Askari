@@ -66,26 +66,23 @@
     <td>PLHI-MC10</td>
     <td>Preprocessing</td>
     <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
-    <td><a href="https://github.com/Benyamin-Askari/Clustering">
+    <td><a href="https://github.com/Benyamin-Askari/Classification/tree/main">
       <img src="https://img.shields.io/badge/Link-GitHub-green" alt="Link">
     </a></td>
   </tr>
-   <tr>
-  <td><strong>Classification</strong></td>
-  <td>
-    <a href="https://www.sciencedirect.com/science/article/pii/S221065022030190X">
-      Obesity Prediction
-    </a>
+
+  
+  <tr>
+    <td><strong>Classification</strong></td>
+  <td><a href="https://www.sciencedirect.com/science/article/pii/S2352914822000521">Obesity Prediction</a>
   </td>
   <td>Random Forest & XGBoost</td>
   <td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25" alt="Scikit-learn"/></td>
-  <td>
-    <a href="https://www.sciencedirect.com/science/article/pii/S221065022030190X">
-      <img src="https://img.shields.io/badge/Link-Research-blue" alt="Link">
-    </a>
-  </td>
-</tr>
+  <td><img src="https://img.shields.io/badge/Link-Research-blue" alt="Link">
+    </a></td>
   </tr>
+  
+  
   <tr>
     <td><strong>Vehicle Counting</strong></td>
     <td>YOLOv11 & ByteTrack</td>
